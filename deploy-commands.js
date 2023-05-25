@@ -1,3 +1,6 @@
+// This file is to be manually run using `node deploy-commands.js`
+// whenever a new command is to be listed among those available on Discord.
+
 require(`dotenv`).config();
 const { REST, Routes } = require(`discord.js`);
 const fs = require(`fs`);
