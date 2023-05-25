@@ -10,7 +10,6 @@ module.exports = {
 			.setAuthor({ name: data.author })
 			.setDescription(data.quote)
 			.addFields({ name: `Season`, value: data.season }, { name: `Episode`, value: data.episode });
-        data.image && quoteEmbed.setThumbnail(data.image);
 		await interaction.reply({ embeds: [quoteEmbed] });
 	},
 };
