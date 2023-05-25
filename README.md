@@ -11,6 +11,9 @@ This project first began as a venture into Python development, when I had zero e
  
  I was able to finish the API in less than an hour, which inspired me to start up my old bot right away. However, looking at the [old bot's repository](https://github.com/uday-rana/KramerBot), I felt it would be much more efficient to use Node.js and it's robust dev environment together with Discord.js's far more detailed documentation and active community, to create a production-ready application, and thus, the new seinfeldBot was born.
 
+## TODO
+See Issues
+
 ## Features
 - Slash command support
 - Embed formatting
