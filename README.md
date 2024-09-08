@@ -5,5 +5,4 @@ This Discord Bot uses my [Seinfeld API](https://github.com/uday-rana/seinfeldAPI
 ## Features
 - Slash command support
 - Embed formatting
-- Always online
 - Manual command deployment
